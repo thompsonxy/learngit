@@ -1,6 +1,6 @@
 ---
-title: "try"
-author: "xin"
+title: "RMarkdown doc"
+author: "Luke Pedersen"
 date: "`r Sys.Date()`"
 output: html_document
 ---
